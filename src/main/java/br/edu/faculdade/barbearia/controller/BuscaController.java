@@ -1,5 +1,7 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.controller;
 
+import br.edu.faculdade.barbearia.service.BuscaService;
+import br.edu.faculdade.barbearia.servico.ServicoResposta;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

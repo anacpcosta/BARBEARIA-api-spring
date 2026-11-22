@@ -1,4 +1,4 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.barbeiro;
 
 /**
  * Frente 2 · quem atende na barbearia.

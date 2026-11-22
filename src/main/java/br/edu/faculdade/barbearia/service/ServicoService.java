@@ -1,5 +1,9 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.service;
 
+import br.edu.faculdade.barbearia.servico.Servico;
+import br.edu.faculdade.barbearia.servico.ServicoEntrada;
+import br.edu.faculdade.barbearia.servico.ServicoResposta;
+import br.edu.faculdade.barbearia.repository.ServicoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

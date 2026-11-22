@@ -1,5 +1,8 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.controller;
 
+import br.edu.faculdade.barbearia.servico.ServicoEntrada;
+import br.edu.faculdade.barbearia.servico.ServicoResposta;
+import br.edu.faculdade.barbearia.service.ServicoService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

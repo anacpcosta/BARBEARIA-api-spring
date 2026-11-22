@@ -1,4 +1,4 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.servico;
 
 /**
  * Frente 1 · o modelo do recurso principal: um serviço que a barbearia oferece.

@@ -1,4 +1,4 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.barbeiro;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

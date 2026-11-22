@@ -1,5 +1,6 @@
-package br.edu.faculdade.barbearia;
+package br.edu.faculdade.barbearia.controller;
 
+import br.edu.faculdade.barbearia.service.EstatisticasService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
